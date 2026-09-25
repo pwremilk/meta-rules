@@ -1,7 +1,7 @@
 !<meta-rules>
 # Meta-family domains (Meta/Instagram/WhatsApp/Threads/Oculus/Messenger/FB-dev)
 # source: v2fly/domain-list-community data/{meta,facebook,facebook-dev,instagram,messenger,whatsapp,threads,oculus}
-# generated 2026-09-25 — mihomo rule-providers type:http, format:text, payload=DOMAIN-SUFFIX lines
+# generated 2026-09-25 — mihomo rule-providers type:http, format:text (classical)
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
 DOMAIN-SUFFIX,accountkit.com
@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,acheter-followers-instagram.com
 DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
 DOMAIN-SUFFIX,acheterfollowersinstagram.com
 DOMAIN-SUFFIX,advancediddetection.com
+DOMAIN-SUFFIX,ai.meta.com
 DOMAIN-SUFFIX,askfacebook.net
 DOMAIN-SUFFIX,askfacebook.org
 DOMAIN-SUFFIX,atdmt2.com
@@ -474,6 +475,7 @@ DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,midentsolutions.com
 DOMAIN-SUFFIX,mobilefacebook.com
 DOMAIN-SUFFIX,moneywithfacebook.com
+DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,myfbfans.com
 DOMAIN-SUFFIX,nbabot.net
 DOMAIN-SUFFIX,newsfeed.com
