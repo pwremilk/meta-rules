@@ -1,0 +1,24 @@
+!<oracle-rules>
+# Oracle-family domains (Oracle/OCI/VirtualBox/Java/AddThis/Sun)
+# source: v2fly/domain-list-community data/{oracle,addthis,java} + router extras
+# generated 2026-09-25 — mihomo rule-providers type:http, format:text (classical)
+DOMAIN-SUFFIX,addthis.com
+DOMAIN-SUFFIX,addthiscdn.com
+DOMAIN-SUFFIX,addthisedge.com
+DOMAIN-SUFFIX,ateam-oracle.com
+DOMAIN-SUFFIX,bronto.com
+DOMAIN-SUFFIX,covid19-rx.org
+DOMAIN-SUFFIX,covid19rx.org
+DOMAIN-SUFFIX,custhelp.com
+DOMAIN-SUFFIX,java.com
+DOMAIN-SUFFIX,java.net
+DOMAIN-SUFFIX,ocicn.com
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,oraclecloud-secure.net
+DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,oraclefoundation.org
+DOMAIN-SUFFIX,oracleimg.com
+DOMAIN-SUFFIX,oracleinfinity.io
+DOMAIN-SUFFIX,oracleunity.com
+DOMAIN-SUFFIX,sun.com
+DOMAIN-SUFFIX,virtualbox.org
